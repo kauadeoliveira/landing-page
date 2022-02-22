@@ -16,7 +16,7 @@ body{
     font-family: var(--font01);
     max-width: 1200px;
     margin: auto;
-    padding: 0 15px;
+    padding: 0px 15px;
 }
 
 header{
